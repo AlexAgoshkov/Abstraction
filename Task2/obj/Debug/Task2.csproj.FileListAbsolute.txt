@@ -1,0 +1,6 @@
+D:\Sourse\GitHub\Abstraction\Task2\bin\Debug\Task2.exe.config
+D:\Sourse\GitHub\Abstraction\Task2\bin\Debug\Task2.exe
+D:\Sourse\GitHub\Abstraction\Task2\bin\Debug\Task2.pdb
+D:\Sourse\GitHub\Abstraction\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+D:\Sourse\GitHub\Abstraction\Task2\obj\Debug\Task2.exe
+D:\Sourse\GitHub\Abstraction\Task2\obj\Debug\Task2.pdb
